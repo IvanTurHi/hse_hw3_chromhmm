@@ -1,5 +1,10 @@
 # hse_hw3_chromhmm
 
+# Коллаб с выполненными командами
+https://colab.research.google.com/drive/1Cu9KvToZGRtDCHP1Q-YWKJQBV6YQlIbE?usp=sharing
+
+# Гистоновые метки и файлы
+
 | Гистоновая метка | файл | Ссылка |
 | :---: | :---: | :---: |
 | H2AFZ | wgEncodeBroadHistoneHmecH2azAlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecH2azAlnRep1.bam |
@@ -13,3 +18,4 @@
 | H3K9ac | wgEncodeBroadHistoneHmecH3k9acStdAlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecH3k9acStdAlnRep1.bam |
 | H3K9me3 | wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam |
 | Control | wgEncodeBroadHistoneHmecControlStdAlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecControlStdAlnRep1.bam |
+
