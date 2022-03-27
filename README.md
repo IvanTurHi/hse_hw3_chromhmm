@@ -26,6 +26,13 @@ https://colab.research.google.com/drive/1Cu9KvToZGRtDCHP1Q-YWKJQBV6YQlIbE?usp=sh
  | ![transitions_10](https://user-images.githubusercontent.com/65420132/160290869-08cf1daa-008c-491b-99b0-24a293aa0edc.png) | 
 
 
+# Картинки из геномного браузера
+![image](https://user-images.githubusercontent.com/65420132/160291117-7fcd2d83-258c-4fa6-b4ce-bb7bd80cbd02.png)
+![image](https://user-images.githubusercontent.com/65420132/160291125-1b93e5e4-96a0-4ac7-a44b-e1fc0b01bb61.png)
+![image](https://user-images.githubusercontent.com/65420132/160291132-1bc8607f-ed79-46fe-9f40-cb0653b77877.png)
+  
+  
+
 # Результаты доп задания(Выполнение см коллаб)
 ![image](https://user-images.githubusercontent.com/65420132/160290827-5250be81-8e02-4481-9dcd-e8f122560c3b.png)
 
