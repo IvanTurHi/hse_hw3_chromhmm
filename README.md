@@ -19,3 +19,9 @@ https://colab.research.google.com/drive/1Cu9KvToZGRtDCHP1Q-YWKJQBV6YQlIbE?usp=sh
 | H3K9me3 | wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam |
 | Control | wgEncodeBroadHistoneHmecControlStdAlnRep1.bam | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHmecControlStdAlnRep1.bam |
 
+# Картинки из CromHMM
+| Emissions | Overlap |
+| :---: | :---: |
+| ![emissions_10](https://user-images.githubusercontent.com/65420132/160288345-52c7507a-cafa-473e-87f6-1f28c758f61e.png) | ![HMEC_10_overlap](https://user-images.githubusercontent.com/65420132/160288414-e111bada-a349-4ad8-857d-1b29bd621b2f.png)
+ | 
+
